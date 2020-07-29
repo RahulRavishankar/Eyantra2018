@@ -15,4 +15,4 @@ Microcontroller Used: ATmega2560
 
 The above Challenges were completed over a series of tasks given by eYRC-2018 team.
 
-https://www.youtube.com/embed/zhCotOfTNfk?start=84
+![Farmers Market Finder Demo](/ezgif.com-video-to-gif.gif)
